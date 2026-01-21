@@ -1,0 +1,11 @@
+panel
+bokeh
+xarray
+zarr
+aiohttp
+hvplot
+datashader
+geoviews
+param
+holoviews
+jupyter_bokeh
