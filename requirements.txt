@@ -1,3 +1,4 @@
+python=3.12
 panel
 bokeh
 xarray
@@ -9,3 +10,5 @@ geoviews
 param
 holoviews
 jupyter_bokeh
+fsspec
+cartopy
